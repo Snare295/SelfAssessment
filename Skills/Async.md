@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop k
+  - `try..catch` u
+  - Non-blocking k
+  - Async I/O u
   - Thread pool
   - Pattern Reactor
   - CAS operations

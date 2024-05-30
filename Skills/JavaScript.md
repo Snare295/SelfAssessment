@@ -1,51 +1,51 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - `Object` e
+  - `Function` e
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` e
+  - `null` e
+  - `this` u
+  - `instanceof` u
+  - `...spread` h
+  - `...rest` 
+  - `typeof` u
+  - Destructuring h
+  - Generators k
+  - Iterators u
+  - Async generator k
+  - Async iterator k
+  - Chaining h
+  - Optional chaining h
   - IIFE
   - Async IIFE
-  - `global`
+  - `global` k
   - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
+  - `window` h
+  - Getters and setters k
+  - `__proto__` k
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u 
+  - Logical operators u
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  - Bitwise operators e
+  - Ternary operator e
+  - `void` u
+  - `yield` h
+  - `await` k
   - Template literal
-  - Strict mode
+  - Strict mode h
   - Hoisting
   - `delete`
   - `in`
-  - `super`
+  - `super` k
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,64 +59,64 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` h
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import` u
+  - `export` u
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `try..catch` u
+  - `switch` u
+  - `class` u
+  - `extends` k
+  - `with` k
+  - `new` u
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
+  - Default parameters k
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` e
+  - `Map` e
+  - `Set` e
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
-  - Mixins
+  - Mixins k
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `RegExp` k
+  - `Date` 
+  - `Math` k
   - `Reflect`
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` k
   - `console`
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 k
+  - Node.js u
+  - npm u
+  - prettier u
+  - MDN u
   - TC39
