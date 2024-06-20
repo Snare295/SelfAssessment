@@ -1,56 +1,56 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories k
-  - GRASP k
-  - SOLID u
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🖐️ used
   - GoF patterns
-  - CQS u
+  - CQS: 🖐️ used
   - Leaking abstractions
-  - Multiparadigm code k
+  - Multiparadigm code: 🎓 known
   - Contract programming
-  - Platform-agnostic k
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage k
-  - Cohesion k
-  - Coupling k
+  - Code coverage: 🎓 known
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability k
-  - Quality k
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
   - Availability
-  - Flexibility k
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
-  - Domain-specific language (DSL) u
-  - System vs applied code 
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC) k
-  - Metaprogramming k
-  - Inversion of control (IoC) h
-  - Dependency injection (DI) u
-  - Clean architecture k
-  - Domain-driven design (DDD) u
-  - Pub/sub h
+  - Separation of concerns (SoC): 🎓 known
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🖐️ used
+  - Pub/sub: 👂 heard
   - Message brocker
-  - Agent u
+  - Agent: 🖐️ used
   - Service locator
-  - Message Queue (MQ) k
-  - CQRS k
+  - Message Queue (MQ): 🎓 known
+  - CQRS: 🎓 known
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram u
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing u
+  - Load balancing: 🖐️ used
   - Gateways
   - On-premises
   - IaaS
