@@ -4,53 +4,53 @@
   - Modularity k
   - Components k
   - Directories k
-  - GRASP
-  - SOLID k
+  - GRASP k
+  - SOLID u
   - GoF patterns
-  - CQS
+  - CQS u
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code k
   - Contract programming
-  - Platform-agnostic
+  - Platform-agnostic k
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage k
-  - Cohesion
-  - Coupling
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability k
+  - Quality k
   - Availability
-  - Flexibility
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
+  - Isolation between layer u
+  - Domain-specific language (DSL) u
+  - System vs applied code 
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
+  - Separation of concerns (SoC) k
+  - Metaprogramming k
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) u
+  - Clean architecture k
+  - Domain-driven design (DDD) u
+  - Pub/sub h
   - Message brocker
-  - Agent
+  - Agent u
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Message Queue (MQ) k
+  - CQRS k
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram u
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing u
   - Gateways
   - On-premises
   - IaaS
